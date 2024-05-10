@@ -42,11 +42,6 @@ This boilerplate features all the latest tools and practices in the industry.
 <br />
 <br />
 
-<p align="center">
-  <a href="https://twitter.com/hullistudio"><strong>🐦 Twitter</strong></a> &mdash; <a href="https://github.com/hullistudio"><strong>👨🏻‍💻 GitHub</strong></a> &mdash; <a href="https://hulli.studio"><strong>🌎 Website</strong></a>
-  <br />
-</p>
-
 <br />
 <br />
 <br />
